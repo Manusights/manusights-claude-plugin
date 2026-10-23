@@ -1,0 +1,20 @@
+{
+  "name": "manusights",
+  "displayName": "Manusights",
+  "version": "1.0.0",
+  "description": "Check references against Crossref, the DOI registry and Retraction Watch, look up a journal's recorded AI-use and disclosure rules, and start a pre-submission preview of a manuscript.",
+  "author": {
+    "name": "Manusights",
+    "email": "team@manusights.com",
+    "url": "https://manusights.com"
+  },
+  "homepage": "https://manusights.com/claude",
+  "repository": "https://github.com/Manusights/manusights-claude-plugin",
+  "license": "MIT",
+  "keywords": ["citations", "references", "retractions", "journal policy", "peer review", "research"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://manusights.com/claude",
+  "supportUrl": "https://manusights.com/contact",
+  "privacyPolicyUrl": "https://manusights.com/privacy",
+  "termsOfServiceUrl": "https://manusights.com/terms"
+}
